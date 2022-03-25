@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/homeMenuId"
+        android:title="Asosiy"
+        android:icon="@drawable/bottom_icon1"
+        />
+
+
+    <item android:id="@+id/kalendarMenuId"
+        android:title="Kalendar"
+        android:icon="@drawable/bottom_icon2"
+        />
+
+    <item android:id="@+id/statistikaMenuId"
+        android:title="Statistika"
+        android:icon="@drawable/bottom_icon3"
+        />
+    <item android:id="@+id/akkauntMenuId"
+        android:title="Akkaunt"
+        android:icon="@drawable/bottom_icon4"
+        />
+</menu>
